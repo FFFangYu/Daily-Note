@@ -15,9 +15,9 @@
 
 ## JavaScript
 
-- ### [数据类型](https://github.com/FFFangYu/Daily-Note/blob/master/ES6/数据类型.md)
+- ### [数据类型](https://github.com/FFFangYu/Daily-Note/blob/master/JavaScript/数据类型.md)
 
-- ### [防抖和节流](https://github.com/FFFangYu/Daily-Note/blob/master/ES6/防抖和节流.md)
+- ### [防抖和节流](https://github.com/FFFangYu/Daily-Note/blob/master/JavaScript/防抖和节流.md)
 
 ## CSS
 
