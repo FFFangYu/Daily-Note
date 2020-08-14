@@ -22,7 +22,7 @@
 ## CSS
 
 ## ES6
-- ### [promise的实现](https://github.com/FFFangYu/Daily-Note/blob/master/ES6/promise.md)
+- ### [promise的实现](https://github.com/FFFangYu/Daily-Note/blob/master/ES6/promise的实现.md)
 
 
 
