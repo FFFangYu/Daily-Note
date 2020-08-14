@@ -9,16 +9,20 @@
 
 ## Vue
 
+- ### [基础](https://github.com/FFFangYu/Daily-Note/blob/master/vue/基础.md)
+
+- ### [生命周期](https://github.com/FFFangYu/Daily-Note/blob/master/vue/生命周期.md)
+
 ## JavaScript
 
-- ### 数据类型
+- ### [数据类型](https://github.com/FFFangYu/Daily-Note/blob/master/ES6/数据类型.md)
 
-- ### 防抖和节流
+- ### [防抖和节流](https://github.com/FFFangYu/Daily-Note/blob/master/ES6/防抖和节流.md)
 
 ## CSS
 
 ## ES6
-- ### promise的实现
+- ### [promise的实现](https://github.com/FFFangYu/Daily-Note/blob/master/ES6/promise.md)
 
 
 
