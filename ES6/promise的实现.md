@@ -20,7 +20,7 @@
 
 在手撕这些方法的时候，需要考虑到怎么使用，也就是说手撕的这个方法怎么使用，参数是什么，返回值是什么。
 
-### constructor
+## constructor
 
 ```js
 new Promise((resolve,reject) => {
@@ -89,7 +89,7 @@ class Promise{
 
 
 
-### static all
+## static all方法
 
 ```js
 Promise.all(promises)
