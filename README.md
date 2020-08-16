@@ -6,6 +6,8 @@
 
 - ### [2020-8-14](https://github.com/FFFangYu/Daily-Note/blob/master/Interview/2020-8-14.md)
 
+- ### [2020-8-15](https://github.com/FFFangYu/Daily-Note/blob/master/Interview/2020-8-15.md)
+
 
 ## Vue
 
@@ -18,6 +20,8 @@
 - ### [数据类型](https://github.com/FFFangYu/Daily-Note/blob/master/JavaScript/数据类型.md)
 
 - ### [防抖和节流](https://github.com/FFFangYu/Daily-Note/blob/master/JavaScript/防抖和节流.md)
+
+- ### [设计模式](https://github.com/FFFangYu/Daily-Note/blob/master/JavaScript/设计模式.md)
 
 ## CSS
 
