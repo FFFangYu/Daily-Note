@@ -8,13 +8,6 @@
 
 - ### [2020-8-15](https://github.com/FFFangYu/Daily-Note/blob/master/Interview/2020-8-15.md)
 
-
-## Vue
-
-- ### [基础](https://github.com/FFFangYu/Daily-Note/blob/master/vue/基础.md)
-
-- ### [生命周期](https://github.com/FFFangYu/Daily-Note/blob/master/vue/生命周期.md)
-
 ## JavaScript
 
 - ### [数据类型](https://github.com/FFFangYu/Daily-Note/blob/master/JavaScript/数据类型.md)
@@ -23,12 +16,20 @@
 
 - ### [设计模式](https://github.com/FFFangYu/Daily-Note/blob/master/JavaScript/设计模式.md)
 
-## CSS
 
 ## ES6
 - ### [promise的实现](https://github.com/FFFangYu/Daily-Note/blob/master/ES6/promise的实现.md)
 
+## 浏览器相关
+- ### [浏览器缓存机制](https://github.com/FFFangYu/Daily-Note/blob/master/浏览器-HTTP/浏览器缓存机制.md)
 
+## Vue
+
+- ### [基础](https://github.com/FFFangYu/Daily-Note/blob/master/vue/基础.md)
+
+- ### [生命周期](https://github.com/FFFangYu/Daily-Note/blob/master/vue/生命周期.md)
+
+## CSS
 
 ------
 
