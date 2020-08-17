@@ -16,12 +16,19 @@
 
 - ### [设计模式](https://github.com/FFFangYu/Daily-Note/blob/master/JavaScript/设计模式.md)
 
+- ### [Ajax](https://github.com/FFFangYu/Daily-Note/blob/master/JavaScript/Ajax.md)
 
 ## ES6
 - ### [promise的实现](https://github.com/FFFangYu/Daily-Note/blob/master/ES6/promise的实现.md)
 
 ## 浏览器相关
 - ### [浏览器缓存机制](https://github.com/FFFangYu/Daily-Note/blob/master/浏览器-HTTP/浏览器缓存机制.md)
+
+- ### [浏览器渲染机制](https://github.com/FFFangYu/Daily-Note/blob/master/浏览器-HTTP/浏览器渲染机制.md)
+
+- ### [浏览器内核](https://github.com/FFFangYu/Daily-Note/blob/master/浏览器-HTTP/浏览器内核.md)
+
+- ### [EventLoop](https://github.com/FFFangYu/Daily-Note/blob/master/EventLoop.md)
 
 ## Vue
 
