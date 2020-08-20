@@ -59,6 +59,7 @@ class Promise{
         let resolve = (value) => {
             if(this.status !== 'pending') return
             setTimeout(() => { // setTimeout模拟异步，别忘记❗
+                this.status = 'resolved'
                 this.data = value
                 if(this.callbacks.length>0){
                     this.callbacks.forEach(callback => {
@@ -70,6 +71,7 @@ class Promise{
         let reject = (reason) => {
             if(this.status !== 'pending') return
             setTimeout(() => {
+                this.status = 'rejected'
                 this.data = reason
                 if(this.callbacks.length>0){
                     this.callbacks.forEach(callback => {

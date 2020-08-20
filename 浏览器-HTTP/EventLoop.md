@@ -26,7 +26,7 @@
 
 ## 浏览器中的事件循环
 
-总结流程：
+🅰总结流程：
 
 1. 一开始整段脚本作为第一个**宏任务**执行
 2. 执行过程中同步代码直接执行，**宏任务**进入宏任务队列，**微任务**进入微任务队列
@@ -38,6 +38,7 @@
 ## Nodejs中的事件循环
 
 ![nodejs](D:\我的资料\前端笔记\Daily-Note\浏览器-HTTP\assets\nodejs.png)
+![nodejs](https://github.com/FFFangYu/Daily-Note/blob/master/浏览器-HTTP/assets/nodejs.png)
 
 **三大关键阶段**
 
