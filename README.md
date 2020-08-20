@@ -8,6 +8,8 @@
 
 - ### [2020-8-15](https://github.com/FFFangYu/Daily-Note/blob/master/Interview/2020-8-15.md)
 
+- ### [2020-8-20](https://github.com/FFFangYu/Daily-Note/blob/master/Interview/2020-8-20.md)
+
 ## JavaScript
 
 - ### [数据类型](https://github.com/FFFangYu/Daily-Note/blob/master/JavaScript/数据类型.md)
@@ -17,6 +19,12 @@
 - ### [设计模式](https://github.com/FFFangYu/Daily-Note/blob/master/JavaScript/设计模式.md)
 
 - ### [Ajax](https://github.com/FFFangYu/Daily-Note/blob/master/JavaScript/Ajax.md)
+
+- ### [垃圾回收机制](https://github.com/FFFangYu/Daily-Note/blob/master/JavaScript/垃圾回收机制.md)
+
+- ### [跨域](https://github.com/FFFangYu/Daily-Note/blob/master/JavaScript/跨域.md)
+
+- ### [本地缓存](https://github.com/FFFangYu/Daily-Note/blob/master/JavaScript/本地缓存.md)
 
 ## ES6
 - ### [promise的实现](https://github.com/FFFangYu/Daily-Note/blob/master/ES6/promise的实现.md)
@@ -29,6 +37,8 @@
 - ### [浏览器内核](https://github.com/FFFangYu/Daily-Note/blob/master/浏览器-HTTP/浏览器内核.md)
 
 - ### [EventLoop](https://github.com/FFFangYu/Daily-Note/blob/master/EventLoop.md)
+
+- ### [前端安全](https://github.com/FFFangYu/Daily-Note/blob/master/浏览器-HTTP/前端安全.md)
 
 ## Vue
 
