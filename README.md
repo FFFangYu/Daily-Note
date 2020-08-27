@@ -53,6 +53,8 @@
 
 - ### [生命周期](https://github.com/FFFangYu/Daily-Note/blob/master/vue/生命周期.md)
 
+- ### [路由](https://github.com/FFFangYu/Daily-Note/blob/master/vue/路由.md)
+
 ## CSS
 - ### [布局](https://github.com/FFFangYu/Daily-Note/blob/master/CSS/布局.md)
 ------
