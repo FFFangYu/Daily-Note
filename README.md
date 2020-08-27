@@ -30,6 +30,8 @@
 
 - ### [图片懒加载](https://github.com/FFFangYu/Daily-Note/blob/master/JavaScript/图片懒加载.md)
 
+- ### [轮播图的实现](https://github.com/FFFangYu/Daily-Note/blob/master/JavaScript/轮播图的实现.md)
+
 
 ## ES6
 - ### [promise的实现](https://github.com/FFFangYu/Daily-Note/blob/master/ES6/promise的实现.md)
