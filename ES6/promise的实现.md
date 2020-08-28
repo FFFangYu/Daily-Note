@@ -130,3 +130,28 @@ static all(promises){
 }
 ```
 
+
+
+# 一些题目
+
+### 声网
+
+在做笔试的时候遇到一道比较有意思的题目。
+
+给你一个peomise还有一个时间，实现函数，一旦没有在这个时间内完成就抛出错误的promise
+
+```js
+function withTimeout(promise,timeout){
+    // 使用race返回现有结果的那个promise
+    return Promise.race([
+        promise,
+        new Promise((resolve,reject) => {
+            // 一旦超过时间，就返回一个失败的Promise
+            setTimeout(()=>{
+                reject(new Error('TIMEOUT'))
+            },timeout)
+        })
+    ])
+}
+```
+
