@@ -14,6 +14,8 @@
 
 - ### [美团二面 2020-8-28](https://github.com/FFFangYu/Daily-Note/blob/master/Interview/2020-8-28.md)
 
+- ### [字节 2020-8-31](https://github.com/FFFangYu/Daily-Note/blob/master/Interview/2020-8-31.md)
+
 
 ## JavaScript
 
@@ -60,6 +62,10 @@
 
 ## CSS
 - ### [布局](https://github.com/FFFangYu/Daily-Note/blob/master/CSS/布局.md)
+
+## 随笔
+- ### [定时器](https://github.com/FFFangYu/Daily-Note/blob/master/随笔/定时器.md)
+
 ------
 
 **写在最后**
