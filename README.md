@@ -14,9 +14,11 @@
 
 - ### [美团二面 2020-8-28](https://github.com/FFFangYu/Daily-Note/blob/master/Interview/2020-8-28.md)
 
-- ### [字节 2020-8-31](https://github.com/FFFangYu/Daily-Note/blob/master/Interview/2020-8-31.md)
+- ### [字节一面 2020-8-31](https://github.com/FFFangYu/Daily-Note/blob/master/Interview/2020-8-31.md)
 
 - ### [携程 2020-9-1](https://github.com/FFFangYu/Daily-Note/blob/master/Interview/2020-9-1.md)
+
+- ### [字节二面 2020-9-2](https://github.com/FFFangYu/Daily-Note/blob/master/Interview/2020-9-2.md)
 
 
 ## JavaScript
