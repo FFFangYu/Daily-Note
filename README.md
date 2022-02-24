@@ -62,13 +62,17 @@
 
 ## Vue
 
-- ### [基础](https://github.com/FFFangYu/Daily-Note/blob/master/vue/基础.md)
+### vue2.x
 
-- ### [生命周期](https://github.com/FFFangYu/Daily-Note/blob/master/vue/生命周期.md)
+- #### [基础](https://github.com/FFFangYu/Daily-Note/blob/master/vue/vue2.x/基础.md)
 
-- ### [路由](https://github.com/FFFangYu/Daily-Note/blob/master/vue/路由.md)
+- #### [路由](https://github.com/FFFangYu/Daily-Note/blob/master/vue/vue2.x/路由.md)
 
-- ### [响应式原理](https://github.com/FFFangYu/Daily-Note/blob/master/vue/响应式原理.md)
+- #### [生命周期](https://github.com/FFFangYu/Daily-Note/blob/master/vue/vue2.x/生命周期.md)
+
+- #### [响应式原理](https://github.com/FFFangYu/Daily-Note/blob/master/vue/vue2.x/响应式原理.md)
+
+### vue3.x
 
 ## CSS
 - ### [布局](https://github.com/FFFangYu/Daily-Note/blob/master/CSS/布局.md)
