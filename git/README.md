@@ -19,5 +19,9 @@
 - git merge 分支名
 - git status 查看状态
 
+#### 查看配置
 
+- cat ~/.gitconfig
+- cat .git/config
+- vim ~/.gitconfig
 
